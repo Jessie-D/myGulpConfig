@@ -1,0 +1,4 @@
+#这个文件为git提价时，所忽略掉得文件
+
+#忽略掉 node_modules
+node_modules
